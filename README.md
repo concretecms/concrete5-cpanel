@@ -2,6 +2,12 @@
 
 concrete5 for WHM/cPanel is a plugin for WHM that allows concrete5 to be automatically installed into cPanel accounts, and upgraded on demand. This plugin - in the cPAddon format - takes care of database creation, file setup, permissions checking and installation.
 
+## Licensing
+
+This plugin is licensed under the AGPL v3:
+
+[http://en.wikipedia.org/wiki/Affero_General_Public_License](http://en.wikipedia.org/wiki/Affero_General_Public_License)
+
 ## Installation the cPaddon
 
 Install this cPAddon manually on your server by following the instructions here: http://docs.cpanel.net/twiki/bin/view/SoftwareDevelopmentKit/DistributingAddons
